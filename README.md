@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# NFT Brawler
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is a NFT smart contract request by reddit user Iaimv. The repository contains a hardhat project which allows testing and deployment of the contract.
 
-Try running some of the following tasks:
-
+Try:
 ```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
+npx hardhat run <script>
 npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
 ```
